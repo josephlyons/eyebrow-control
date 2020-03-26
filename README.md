@@ -422,55 +422,46 @@ Quick terminology guide for softwares used in this project.
 ​
 
 **Ableton Live**
-
 Ableton Live is a digital audio workstation for macOS and Windows.
 
 ​
 
 **Max/MSP**
-
 Max is a visual programming language for the specialized needs of artists, educators, and researchers working with audio, visual media, and physical computing.
 
 ​
 
 **Max for Live**
-
 Max for Live is a platform to build your own instruments and effects, tools for live performance and visuals, and more. It is an implementation of the Max/MSP software within Ableton Live
 
 ​
 
 **Puredata**
-
 Pure Data \(or just Pd \) is an open source visual programming language for multimedia. It is very similar to Max/MSP and shares a lot of the same language and structure.
 
 ​
 
 **openFrameworks**
-
 openFrameworks is an open source toolkit for creative coding.
 
 ​
 
 **ofxFaceTracker**
-
 ofxFaceTracker is openFrameworks addon for face tracking, based on Jason Saragih's FaceTracker library.
 
 ​
 
 **FaceOSC**
-
 FaceOSC sends as much data as possible from ofxFaceTracker via OSC, including its pose/position and gestural data, and its raw points.
 
 ​
 
 **OSC**
-
 Open Sound Control \(OSC\) is a protocol for communication among computers, sound synthesizers, and other multimedia devices that is optimized for modern networking technology.
 
 ​
 
 **Arduino**
-
 Open-source electronic prototyping platform enabling users to create interactive electronic objects.
 
 
@@ -504,6 +495,10 @@ I used the Max for Live Editor within Ableton Live to unpack OSC data sent from 
 Wikifactory Link:
 
 https://wikifactory.com/@josephlyons/eyebrow-controlled-tempo
+
+Github Link:
+
+https://github.com/josephlyons/eyebrow-controlled-tempo
 
 ​
 
@@ -540,6 +535,9 @@ This was a hack using Arduino which allowed me to control a Tony Hawk Circuit Bo
 ​
 
 Wikifactory Link: https://wikifactory.com/@josephlyons/eyebrow-rc-skateboard
+
+Github Link: https://github.com/josephlyons/RC-Skateboard-Eyebrow-Hack
+
 
 ​
 
