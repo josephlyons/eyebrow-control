@@ -422,7 +422,6 @@ Quick terminology guide for softwares used in this project.
 ​
 
 **Ableton Live**
-
 Ableton Live is a digital audio workstation for macOS and Windows.
 
 ​
@@ -505,6 +504,10 @@ Wikifactory Link:
 
 https://wikifactory.com/@josephlyons/eyebrow-controlled-tempo
 
+Github Link:
+
+https://github.com/josephlyons/eyebrow-controlled-tempo
+
 ​
 
 ![image](https://wikifactory.com/files/RmlsZTozMTQ3OTE=)
@@ -539,7 +542,14 @@ This was a hack using Arduino which allowed me to control a Tony Hawk Circuit Bo
 
 ​
 
-Wikifactory Link: https://wikifactory.com/@josephlyons/eyebrow-rc-skateboard
+Wikifactory Link: 
+
+https://wikifactory.com/@josephlyons/eyebrow-rc-skateboard
+
+Github Link: 
+
+https://github.com/josephlyons/RC-Skateboard-Eyebrow-Hack
+
 
 ​
 
