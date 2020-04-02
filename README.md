@@ -1,6 +1,7 @@
 # Eyebrow Controlled Objects - Joe Lyons
 
 
+
 _How Might We:_
 
 **Control the world with our eyebrows?**
@@ -12,31 +13,9 @@ Exploring the potential of facially controlled objects.
 
 
 
-## Futures Wheel - Music Streaming
-
-This futures wheel is based on the trend of music consumption transitioning to streaming services such as spotify and apple music.
-
-​
-
-![image](https://github.com/josephlyons/eyebrow-control/blob/master/images/Futures%20Wheel%20-%20Streaming%20-%20Further%20Futures.jpg?raw=true)
-
-_Figure 1 - Futures Wheel based on the trend of music streaming_
-
-The Future wheel predicts a series of outcomes related to music and its surrounding industry.
-
-## Personal/Novel/Contextual
-
-
-![image](https://github.com/josephlyons/eyebrow-control/blob/master/images/Novel%20Personal%20Contextual.jpg?raw=true)
-
-![image](https://github.com/josephlyons/eyebrow-control/blob/master/images/PNC%20-%201PERSONAL.JPG?raw=true)
-
-![image](https://github.com/josephlyons/eyebrow-control/blob/master/images/PNC%20-%202NOVEL.JPG?raw=true)
-
-![image](https://github.com/josephlyons/eyebrow-control/blob/master/images/PNC%20-%203CONTEXTUAL.JPG?raw=true)
-
 
 ## Experience/Insights
+
 
 I presented a series of experimental music instruments I developed at a Hackoustic Presents night at Iklektic Artlab in London. I had the opportunity to introduce myself, and my work infront at an interactive gig of musicans, audio nerds & instrument hackers \(similar to myself\) and then give them a chance to interact with and use the instruments.
 
@@ -70,20 +49,26 @@ The interactions I had created allowed you to interact with the creation of _sou
 
 This lead me to look for new & more interesting interactions.
 
+
 ## Expert Interview
+
 
 Plan to interview:
 
 Kyle McDonald - guy who created FaceOSC using OpenFrameworks ofxFaceTracker.
 
+
 ## hmw / poster
+
 
 
 ![image](https://github.com/josephlyons/eyebrow-control/blob/master/images/dual%20poster.jpg?raw=true)
 
 
 
+
 ## Software Guide
+
 
 Quick terminology guide for softwares used in this project.
 
@@ -141,7 +126,9 @@ Open Sound Control \(OSC\) is a protocol for communication among computers, soun
 
 Open-source electronic prototyping platform enabling users to create interactive electronic objects.
 
+
 ## Hack
+
 
 For my hack I combined a handful of different softwares to create a Ableton Live Plugin that allows you too control the tempo of a Live projcect using only your eyebrows.
 
@@ -164,6 +151,7 @@ _Screenshot of the Max for Live patch in edit mode._
 **Potential Futures:**
 
 Studio production streamlining, Live music performance, Production accessibility.
+
 
 ## Further Hacks
 
@@ -209,12 +197,15 @@ _EBC Guillotine/Fruit Slicer._
 
 
 
+
 @[youtube](https://youtube.com/embed/PaQ6n6Pq4DY)
 
 \(featuring music by me!\)
 
 
+
 ## Return to Expert
+
 
 
 Plan to possibly interview:
@@ -222,6 +213,7 @@ Plan to possibly interview:
 Oddballs Team - https://www.kickstarter.com/projects/1535627339/oddball-the-drum-machine-crammed-in-a-ball
 
 Kyle McDonald - guy who created FaceOSC using OpenFrameworks ofxFaceTracker.
+
 
 
 ## WIP Show
@@ -249,3 +241,41 @@ Figure Y shows how the webcam is mounted to the back of the work desk/exhibiton 
 ![image](https://github.com/josephlyons/eyebrow-control/blob/master/images/birdseye%20table%20setup.jpg?raw=true)
 
 Figure Z - birds eye view of the setup used for testing and ensuring all the hacks worked using laptop.
+
+## Appendix
+
+**Futures Wheel**
+
+​
+
+This futures wheel is based on the trend of music consumption transitioning to streaming services such as spotify and apple music.
+
+​
+
+![image](https://github.com/josephlyons/eyebrow-control/blob/master/images/Futures%20Wheel%20-%20Streaming%20-%20Further%20Futures.jpg?raw=true)
+
+_Figure 1 - Futures Wheel based on the trend of music streaming_
+
+​
+
+The Future wheel predicts a series of outcomes related to music and its surrounding industry.
+
+​
+
+​
+
+**Personal, Novel & Contextual Influences for this project.**
+
+![image](https://github.com/josephlyons/eyebrow-control/blob/master/images/Novel%20Personal%20Contextual.jpg?raw=true)
+
+![image](https://github.com/josephlyons/eyebrow-control/blob/master/images/PNC%20-%201PERSONAL.JPG?raw=true)
+
+![image](https://github.com/josephlyons/eyebrow-control/blob/master/images/PNC%20-%202NOVEL.JPG?raw=true)
+
+![image](https://github.com/josephlyons/eyebrow-control/blob/master/images/PNC%20-%203CONTEXTUAL.JPG?raw=true)
+
+​
+
+​
+
+next bit
