@@ -140,8 +140,9 @@ I used the Max for Live Editor within Ableton Live to unpack OSC data sent from 
 Wikifactory Link:
 https://wikifactory.com/@josephlyons/eyebrow-controlled-tempo
 
+
 ![image](https://wikifactory.com/files/RmlsZTozMTQ3OTE=)
-_Screenshot of the Max for Live patch in edit mode._
+*Screenshot of the Max for Live patch in edit mode.*
 
 **Potential Futures:**
 Studio production streamlining, Live music performance, Production accessibility.
