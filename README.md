@@ -142,6 +142,7 @@ https://wikifactory.com/@josephlyons/eyebrow-controlled-tempo
 
 
 ![image](https://wikifactory.com/files/RmlsZTozMTQ3OTE=)
+
 *Screenshot of the Max for Live patch in edit mode.*
 
 **Potential Futures:**
@@ -163,6 +164,7 @@ Wikifactory Link: https://wikifactory.com/@josephlyons/eyebrow-rc-skateboard
 **EBC Pinball**
 ![image](https://github.com/josephlyons/eyebrow-control/blob/master/images/hack%20photos/pinball%20top.jpg?raw=true)
 _EBC Pinball_
+
 
 ![image](https://github.com/josephlyons/eyebrow-control/blob/master/images/hack%20photos/pinball%202%20combined.jpg?raw=true)
 _Back of pinball machine_
