@@ -2,22 +2,12 @@
 
 
 
-_How Might We:_
-
-**Control the world with our eyebrows?**
-
-
-
-Exploring the potential of facially controlled objects.
-
-
-
 
 
 ## Experience/Insights
 
 
-I presented a series of experimental music instruments I developed at a Hackoustic Presents night at Iklektic Artlab in London. I had the opportunity to introduce myself, and my work infront at an interactive gig of musicans, audio nerds & instrument hackers \(similar to myself\) and then give them a chance to interact with and use the instruments.
+I presented a series of experimental music instruments I developed at a Hackoustic Presents night at Iklektic Artlab in London. I had the opportunity to introduce myself, and my work infront at an interactive gig of musicans, audio nerds & instrument hackers \(similar to myself\) and then give them a chance to interact with and use a series of three experimental instruments I produced for my previous project Modify Sound.
 
 ​
 
@@ -45,12 +35,31 @@ I soon realised that battery power is _never_ the way for exhibitions - having t
 
 _Different angle on the table._
 
+​
+
 The interactions I had created allowed you to interact with the creation of _sound_ in a different way. However, the interaction between the user and trigger, here a slider or the lid of a box, was still in everyday language.
 
-This lead me to look for new & more interesting interactions.
+​
+
+​
+
+**This lead me to look for new & more interesting interactions.**
+
+​
+
+​
+
+I took off from another previous project where I used ultrasonic sensors patched through Max for Live via Arduinos, to create a sound art installation. 
+
+​
+
+This gave me a good starting point combining hardware & software for creative means.
 
 
 ## Expert Interview
+
+
+
 
 
 Plan to interview:
@@ -58,7 +67,13 @@ Plan to interview:
 Kyle McDonald - guy who created FaceOSC using OpenFrameworks ofxFaceTracker.
 
 
+
+
+
 ## hmw / poster
+
+
+
 
 
 
@@ -67,7 +82,13 @@ Kyle McDonald - guy who created FaceOSC using OpenFrameworks ofxFaceTracker.
 
 
 
+
+
+
 ## Software Guide
+
+
+
 
 
 Quick terminology guide for softwares used in this project.
@@ -127,7 +148,13 @@ Open Sound Control \(OSC\) is a protocol for communication among computers, soun
 Open-source electronic prototyping platform enabling users to create interactive electronic objects.
 
 
+
+
+
 ## Hack
+
+
+
 
 
 For my hack I combined a handful of different softwares to create a Ableton Live Plugin that allows you too control the tempo of a Live projcect using only your eyebrows.
@@ -153,23 +180,29 @@ _Screenshot of the Max for Live patch in edit mode._
 Studio production streamlining, Live music performance, Production accessibility.
 
 
+
+
+
 ## Further Hacks
 
-From here I developed 3 eyebrow controlled \(EBC\) objects:
+
+From here I wanted to prove that I could effect the physical world using the eyebrows as a trigger. The first trigger I used was a 'raise', raising the eyebrows above a set height triggers a 'bang' in the software, and returning the eyebrows below this height sends out a 'bang too.
 
 ​
 
-**EBC RC Skateboard**
-
-![image](https://github.com/josephlyons/eyebrow-control/blob/master/images/hack%20photos/skateboard.jpg?raw=true)
-
-_EBC Skateboard_
+To test the 'raise' function I built an EBC pinball machine.
 
 ​
 
-This was a hack using Arduino which allowed me to control a Tony Hawk Circuit Board RC Skateboard using an Arduino & a handful of software. Allows the user to control the skateboard using only their eyebrows & a webcam.
+Eyebrows Raised = Pinball Flippers Raised
 
-Wikifactory Link: https://wikifactory.com/@josephlyons/eyebrow-rc-skateboard
+Eyebrows Neurtral = Pinball Flippers Neutral
+
+​
+
+​
+
+​
 
 ​
 
@@ -193,7 +226,27 @@ _Back of pinball machine_
 
 _EBC Guillotine/Fruit Slicer._
 
+​
+
+**EBC RC Skateboard**
+
+![image](https://github.com/josephlyons/eyebrow-control/blob/master/images/hack%20photos/skateboard.jpg?raw=true)
+
+_EBC Skateboard_
+
+​
+
+This was a hack using Arduino which allowed me to control a Tony Hawk Circuit Board RC Skateboard using an Arduino & a handful of software. Allows the user to control the skateboard using only their eyebrows & a webcam.
+
+​
+
+Wikifactory Link: https://wikifactory.com/@josephlyons/eyebrow-rc-skateboard
+
+
 ## Making Film
+
+
+
 
 
 
@@ -204,7 +257,13 @@ _EBC Guillotine/Fruit Slicer._
 
 
 
+
+
+
 ## Return to Expert
+
+
+
 
 
 
@@ -216,7 +275,13 @@ Kyle McDonald - guy who created FaceOSC using OpenFrameworks ofxFaceTracker.
 
 
 
+
+
+
 ## WIP Show
+
+
+
 
 Here are some photos that show how the WIP was to be set up before it was cancelled.
 
@@ -242,7 +307,13 @@ Figure Y shows how the webcam is mounted to the back of the work desk/exhibiton 
 
 Figure Z - birds eye view of the setup used for testing and ensuring all the hacks worked using laptop.
 
+
+
+
 ## Appendix
+
+
+
 
 **Futures Wheel**
 
