@@ -120,6 +120,8 @@ Eyebrows <strong>Frown</strong> = Backward</p>
 <p>​</p>
 <p><img src="https://github.com/josephlyons/eyebrow-control/blob/master/images/birdseye%20table%20setup.jpg?raw=true" alt="image"></p>
 <p>Figure Z - birds eye view of the setup used for testing and ensuring all the hacks worked using laptop.</p>
+<p><img src="https://github.com/josephlyons/eyebrow-control/blob/master/images/hack%20photos/camera%20mount%20close.jpg?raw=true" alt="enter image description here"><br>
+<em>Figure A - webcam mount made for exhibition</em></p>
 <h2 id="appendix">Appendix</h2>
 <p><strong>Futures Wheel</strong></p>
 <p>​</p>
