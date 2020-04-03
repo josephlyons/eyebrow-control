@@ -137,6 +137,4 @@ Eyebrows <strong>Frown</strong> = Backward</p>
 <p><img src="https://github.com/josephlyons/eyebrow-control/blob/master/images/PNC%20-%202NOVEL.JPG?raw=true" alt="image"></p>
 <p><img src="https://github.com/josephlyons/eyebrow-control/blob/master/images/PNC%20-%203CONTEXTUAL.JPG?raw=true" alt="image"></p>
 <p>​</p>
-<p>​</p>
-<p>next bit</p>
 
