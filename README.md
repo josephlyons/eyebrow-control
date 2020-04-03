@@ -109,8 +109,8 @@ Eyebrows <strong>Frown</strong> = Backward</p>
 <p>Kyle McDonald - guy who created FaceOSC using OpenFrameworks ofxFaceTracker.</p>
 <h2 id="wip-show">WIP Show</h2>
 <p>Here are some photos that show how the WIP was to be set up before it was cancelled.</p>
-<p><img src="https://github.com/josephlyons/eyebrow-control/blob/master/images/WIP%20joint%20image.jpg?raw=true" alt="image"></p>
-<p><em>Figure X &amp; Y - Front and Back view of 3 hacks set up in the FabLab exhibition space ready for the WIP show.</em></p>
+<p><img src="https://github.com/josephlyons/eyebrow-control/blob/master/images/WIP%20joint%20image.jpg?raw=true" alt="image"><br>
+<em>Figure X &amp; Y - Front and Back view of 3 hacks set up in the FabLab exhibition space ready for the WIP show.</em></p>
 <p>Here, in figure X you can see how the hacks would have been arranged. From left to right:</p>
 <p>Eyebrow Controlled Pinball,</p>
 <p>Selection Slider,</p>
@@ -118,10 +118,19 @@ Eyebrows <strong>Frown</strong> = Backward</p>
 <p>Eyebrow Controlled Fruit Slicer.</p>
 <p>Figure Y shows how the webcam is mounted to the back of the work desk/exhibiton table.</p>
 <p>​</p>
-<p><img src="https://github.com/josephlyons/eyebrow-control/blob/master/images/birdseye%20table%20setup.jpg?raw=true" alt="image"></p>
-<p>Figure Z - birds eye view of the setup used for testing and ensuring all the hacks worked using laptop.</p>
+<p><img src="https://github.com/josephlyons/eyebrow-control/blob/master/images/birdseye%20table%20setup.jpg?raw=true" alt="image"><br>
+<em>Figure Z - birds eye view of the setup used for testing and ensuring all the hacks worked using laptop.</em></p>
+<p>Figure A shows a close up of the mount made for the exhibition. This makes embeds the camera within the exhibition stand making the exhibition focus on the potential uses of eyebrow controlled objects rather than an end product for this project.</p>
 <p><img src="https://github.com/josephlyons/eyebrow-control/blob/master/images/hack%20photos/camera%20mount%20close.jpg?raw=true" alt="enter image description here"><br>
 <em>Figure A - webcam mount made for exhibition</em></p>
+<h2 id="conclusions-from-wip">Conclusions from WIP</h2>
+<p>I designed the work for the wip show exhibition with the intention to gain insight from the exhibition itself. I wanted to listen to a wide range of peoples opinions of my work and watch people interact with what I had made.</p>
+<p>Unfortunately due to the cancellation of the show I didnt get this opportunity but reflecting on the work now I have made a series of conclusions of the next steps I need to take. To do this I have compiled a criteria for what the end product must be.</p>
+<ol>
+<li>Eyebrow Controlled - obviously</li>
+<li>Open Source Design - to be made anywhere</li>
+<li>Dual Person Interactive - for two people to work together</li>
+</ol>
 <h2 id="appendix">Appendix</h2>
 <p><strong>Futures Wheel</strong></p>
 <p>​</p>
