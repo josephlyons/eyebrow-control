@@ -21,11 +21,7 @@
 <p><em>Different angle on the table.</em></p>
 <p>​</p>
 <p>The interactions I had created allowed you to interact with the creation of <em>sound</em> in a different way. However, the interaction between the user and trigger, here a slider or the lid of a box, was still in everyday language.</p>
-<p>​</p>
-<p>​</p>
 <p><strong>This lead me to look for new &amp; more interesting interactions.</strong></p>
-<p>​</p>
-<p>​</p>
 <p>I took off from another previous project where I used ultrasonic sensors patched through Max for Live via Arduinos, to create a sound art installation.</p>
 <p>​</p>
 <p>This gave me a good starting point combining hardware &amp; software for creative means.</p>
