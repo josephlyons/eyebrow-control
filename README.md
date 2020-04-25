@@ -125,11 +125,13 @@ Eyebrows <strong>Frown</strong> = Backward</p>
 <em>Figure A - webcam mount made for exhibition</em></p>
 <h2 id="conclusions-from-wip">Conclusions from WIP</h2>
 <p>I designed the work for the wip show exhibition with the intention to gain insight from the exhibition itself. I wanted to listen to a wide range of peoples opinions of my work and watch people interact with what I had made.</p>
-<p>Unfortunately due to the cancellation of the show I didnt get this opportunity but reflecting on the work now I have made a series of conclusions of the next steps I need to take. To do this I have compiled a criteria for what the end product must be.</p>
+<p>Unfortunately due to the cancellation of the show I didnt get this opportunity but reflecting on the work now I have made a series of conclusions of the next steps I need to take.</p>
+<p>From my testing and further hacks I have concluded that using eyebrows as the control is definitely the most controllable aspect of your face - having the ‘raise’, neutral and ‘frown’ functions allows two distinct triggers.</p>
+<p>To do this I have compiled a criteria for what the end product must be.</p>
 <ol>
-<li>Eyebrow Controlled - obviously</li>
-<li>Open Source Design - to be made anywhere</li>
-<li>Dual Person Interactive - for two people to work together</li>
+<li>Eyebrow Controlled - obviously!</li>
+<li>Open Source Design - to be made anywhere.</li>
+<li>Dual Person Interactive - for two people to work together.</li>
 </ol>
 <h2 id="appendix">Appendix</h2>
 <p><strong>Futures Wheel</strong></p>
@@ -148,4 +150,57 @@ Eyebrows <strong>Frown</strong> = Backward</p>
 <p><img src="https://github.com/josephlyons/eyebrow-control/blob/master/images/PNC%20-%202NOVEL.JPG?raw=true" alt="image"></p>
 <p><img src="https://github.com/josephlyons/eyebrow-control/blob/master/images/PNC%20-%203CONTEXTUAL.JPG?raw=true" alt="image"></p>
 <p>​</p>
+<h3 id="making-cardboard-prototype-maze">Making Cardboard Prototype Maze</h3>
+<h4 id="build-1">BUILD 1</h4>
+<p>Build 1 documents process of creating the cardboard prototype to be operated by hand.</p>
+<p><img src="https://github.com/josephlyons/maze-shiftrio/blob/master/maze%20on%20table.JPG?raw=true" alt=""></p>
+<p><strong>Materials</strong></p>
+<ul>
+<li>Cardboard boxes</li>
+<li>BBQ Skewers</li>
+<li>Rubber Bands</li>
+<li>Wire cable ties</li>
+</ul>
+<p><strong>Fixings</strong></p>
+<ul>
+<li>PVA</li>
+<li>Contact Adhesive</li>
+<li>Electrical Tape</li>
+<li>Superglue</li>
+</ul>
+<p><strong>Tools</strong></p>
+<ul>
+<li>60cm rule</li>
+<li>Stanley knife</li>
+<li>Wirecutter</li>
+</ul>
+<p><img src="https://github.com/josephlyons/maze-shiftrio/blob/master/materials.JPG?raw=true" alt=""></p>
+<p><strong>Method</strong></p>
+<p>I based my design off of a common youtube design.</p>
+<p>I began by cutting the main square base that would have the maze on it.</p>
+<p>Then I cut pieces to be layered into double thickness to give rigidity, these became the sides and framing for the two surrounding boxes.</p>
+<p>I then cut out pieces for the maze. Everything from this point was glued with PVA glue.</p>
+<p>The BBQ Skewers were combined in threes to create thicker dowel.</p>
+<p>The wire cable ties were then cut into small hooks and superglued to keep them in place on the underside of the maze.</p>
+<p>The elastic bands &amp; string was used to tension the maze and allow the bbq/dowel when twisted to move the maze on two axies.</p>
+<p><img src="https://github.com/josephlyons/maze-shiftrio/blob/master/underr.JPG?raw=true" alt=""></p>
+<p>VIDEO</p>
+<h4 id="build-2">BUILD 2</h4>
+<p>Build 2 documents the expansion of this design to include wireless wifi enabled eyebrow controlled servo motors.</p>
+<p><strong>Materials</strong></p>
+<ul>
+<li>2x ESP32 Development Boards</li>
+<li>2x Mini Servo Motors</li>
+<li>2x Micro USB Cables</li>
+<li>6x Jumper Cables</li>
+</ul>
+<p><strong>Software</strong></p>
+<ul>
+<li>FaceOSC</li>
+<li>Puredata Extended</li>
+<li>Arduino IDE w/ ESP32 Servo Library &amp; ESP32 Board Install</li>
+<li><a href="http://Shiftr.io">Shiftr.io</a> [website]</li>
+</ul>
+<p><img src="https://github.com/josephlyons/maze-shiftrio/blob/master/servo%20setup.JPG?raw=true" alt=""></p>
+<p><em>Two ESP32 development boards being used to wirelessly control the servo attached to one of the axis on the maze game.</em></p>
 
